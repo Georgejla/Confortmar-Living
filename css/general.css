@@ -73,7 +73,7 @@ margin: auto;
 }
 
 .h1_home{
-	font-size: 50px;
+	font-size: 30px;
 	font-family: arvo;
 	font-weight: 300;
 	letter-spacing: 6px;
@@ -141,9 +141,9 @@ filter: alpha(opacity=95) !important;
 }
 
 .mybutton_cyano{
-	border: 1px solid #4A90BE;
+	border: 2px solid #ffffff;
 	color: #fff;
-	background-color:#4A90BE;
+	background-color:#000000;
 }
 
 .mybutton_cyano:hover{
