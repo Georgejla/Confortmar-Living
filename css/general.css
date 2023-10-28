@@ -142,8 +142,7 @@ filter: alpha(opacity=95) !important;
 
 .mybutton_cyano{
 	border: 2px solid #ffffff;
-	color: #fff;
-	background-color:#000000;
+	color: #000000;
 }
 
 .mybutton_cyano:hover{
@@ -258,7 +257,7 @@ color: #ECEBEB;
 }
 
 .list-inline {
-	margin-top: 30px;
+	margin-top: 0px;
 }
 .intro-message > h1 {
 	margin: 0;
