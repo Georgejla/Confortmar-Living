@@ -41,9 +41,14 @@
 
 .img-responsive{
     display: inline;
-    max-width: 20%;
+    max-width: 18%;
     height: auto
 }
+
+.item .img-responsive {
+    cursor:url(../img/cross.png),auto;
+}
+
 
 .list-inline {
 	margin-top: 0px;
