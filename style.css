@@ -42,7 +42,7 @@
 
 .img-responsive{
     display: inline;
-    max-width: 29%;
+    max-width: 26%;
     height: auto
 }
 
@@ -307,9 +307,9 @@
 
 .banner {
     width: 100%;
-	padding: 100px 0;
+	padding: 200px 0;
 	color: #f8f8f8;
-    background-image:url(img/intro/banner-bg.jpg);
+    background-image:url(img/intro/banner-bg.gif);
     background-repeat:no-repeat;
     background-position: center;
     background-size:cover;
